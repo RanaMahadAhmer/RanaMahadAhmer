@@ -2,13 +2,13 @@
 
 **Software Engineer** building enterprise solutions at **RSCO** and shipping mobile apps as a freelancer on **Upwork**.
 
-I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)* — my solo dev entity where I build, break, and ship software.
+I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my solo dev entity where I build, break, and ship software.
 
 ---
 
 ### What I'm working on
 
-- 🏢 Building **AccFam ERP** — a custom ERP & HR platform (Javascript, Python, MariaDB) for clients.
+- 🏢 Building **AccFam ERP** a custom ERP & HR platform (Javascript, Python, MariaDB) for clients.
 - 📱 Building cross-platform mobile apps with **Kotlin Multiplatform** & **Flutter**
 - 🔧 Automating payroll, leave management, and compliance workflows for 200+ employees
 
