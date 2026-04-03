@@ -31,7 +31,7 @@ DevOps       Docker · Kubernetes · Bash scripting
 | [**RingNet**](https://ringnet.ner-dev.com) | Kotlin, Node.js, React, AWS | Real-time emergency alert platform with sub-100ms WebSocket notifications |
 | [**Fotolicious**](https://fotolicious.ner-dev.com) | React, Node.js, Kubernetes, GCP | Microservices photo gallery supporting 1,000+ concurrent users |
 | [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec |
-| **Adcfam ERP** | Python,JS, MariaDB, Docker, WSL | Customised sites and modules deployed for 3+ firm clients |
+| **Accfam ERP** | Python,JS, MariaDB, Docker, WSL | Customised sites and modules deployed for 3+ firm clients |
 
 > Check out my apps at `<app-name>.ner-dev.com`
 
