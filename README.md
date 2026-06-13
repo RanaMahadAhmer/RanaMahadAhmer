@@ -1,6 +1,6 @@
 # Hey, I'm Rana Mahad Ahmer 👋
 
-**Software Engineer** building enterprise solutions at **RSCO** and shipping mobile apps as a freelancer on **Upwork**.
+**Software Engineer** building enterprise solutions at **Rauf Sattar & Co** and shipping mobile apps as a freelancer on **Upwork**.
 
 I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my solo dev entity where I build, break, and ship software.
 
@@ -18,7 +18,7 @@ I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my 
 Languages    Kotlin · Java · Dart · Python · JavaScript · C++ · Bash
 Mobile       Jetpack Compose · Flutter · Compose Multiplatform · KMP
 Backend      Node.js · Ktor · Spring Boot · Frappe Framework
-Frontend     React
+Frontend     React · Svelte
 Cloud        Firebase · GCP · AWS · Vercel
 Databases    PostgreSQL · MariaDB · MySQL · MongoDB · Firestore · Room · SQLite
 DevOps       Docker · Kubernetes · Bash scripting
@@ -28,18 +28,17 @@ DevOps       Docker · Kubernetes · Bash scripting
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**RingNet**](https://ringnet.ner-dev.com) | Kotlin, Node.js, React, AWS | Real-time emergency alert platform with sub-100ms WebSocket notifications |
+| [**RingNet**](https://ring-net.ner-dev.com) | Kotlin, Node.js, React, AWS | Real-time emergency alert platform with sub-100ms WebSocket notifications |
 | [**Fotolicious**](https://fotolicious.ner-dev.com) | React, Node.js, Kubernetes, GCP | Microservices photo gallery supporting 1,000+ concurrent users |
 | [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec |
-| **Accfam ERP** | Python,JS, MariaDB, Docker, WSL | Customised sites and modules deployed for 3+ firm clients |
+| [**Accfam**](https://accfam.ner-dev.com) | Python, JS, MariaDB, Docker, WSL | 30+ tightly-integrated modules unifying accounting, HR, manufacturing, inventory, sales & procurement on a single source of truth. |
+| [**i-Sahulat**](https://i-sahulat.ner-dev.com/) | Node.js, PostgreSQL, React 19, Nodemailer, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs covering sales, inventory, production batches, banking, expenses & real layered cost-of-sale. |
 
-> Check out my apps at `<app-name>.ner-dev.com`
 
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-mahad-ahmer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://developer.ner-dev.com)
-[![NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat&logo=firefoxbrowser&logoColor=orange)](https://ner-dev.com)
+[![Portfolio + NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat&logo=firefoxbrowser&logoColor=orange)](https://ner-dev.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:developer@ner-dev.com)
 
 ---
