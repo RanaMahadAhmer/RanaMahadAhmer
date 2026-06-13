@@ -1,4 +1,4 @@
-# Hey, I'm Rana Mahad Ahmer 👋
+# Hey, I'm Rana Mahad Ahmer 
 
 **Software Engineer** building enterprise solutions at **Rauf Sattar & Co** and shipping mobile apps as a freelancer on **Upwork**.
 
@@ -38,7 +38,7 @@ DevOps       Docker · Kubernetes · Bash scripting
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-mahad-ahmer/)
-[![Portfolio + NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat&logo=firefoxbrowser&logoColor=orange)](https://ner-dev.com)
+[![Portfolio + NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat)](https://ner-dev.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:developer@ner-dev.com)
 
 ---
