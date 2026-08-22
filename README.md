@@ -43,4 +43,4 @@ DevOps       Docker · Kubernetes · Bash scripting
 
 ---
 
-<sub>NUST '25 · Software Engineer · Daska, Pakistan</sub>
+<sub>NUST '25 · Software Engineer · Islamabad, Pakistan</sub>
