@@ -1,46 +1,59 @@
-# Hey, I'm Rana Mahad Ahmer 
+# Hey, I'm Rana Mahad Ahmer
 
-**Software Engineer** building enterprise solutions at **Rauf Sattar & Co** and shipping mobile apps as a freelancer on **Upwork**.
+**Software Developer** at **Rauf Sattar & Co Chartered Accountants**, building the platforms the firm ships to its clients, and a freelance mobile developer on **Upwork** since 2023.
 
-I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my solo dev entity where I build, break, and ship software.
+I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my solo dev studio: automations, native mobile apps and web platforms, owned end to end from spec to production and shipped independently to Google Play.
 
 ---
 
 ### What I'm working on
 
-- 🏢 Building **AccFam ERP** a custom ERP & HR platform (Javascript, Python, MariaDB) for clients.
-- 📱 Building cross-platform mobile apps with **Kotlin Multiplatform** & **Flutter**
-- 🔧 Automating payroll, leave management, and compliance workflows for 200+ employees
+- 🏢 Building and running **AccFam**, **Accfam Work**, **i-Sahulat** and **LMS** for the firm's clients — spec, design, build, deploy and support
+- 📱 **Accfam Work**'s native apps for Android, iPhone, Windows and Mac from one **Kotlin Multiplatform** codebase — [now on Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work)
+- 🚀 Shipping **zero-Hop**, a direct communication app with no server in the middle
+- 📖 Reading *Designing Data-Intensive Applications* · learning **Rust + wgpu**
 
 ### What I work with
 
 ```
-Languages    Kotlin · Java · Dart · Python · JavaScript · C++ · Bash
-Mobile       Jetpack Compose · Flutter · Compose Multiplatform · KMP
-Backend      Node.js · Ktor · Spring Boot · Frappe Framework
-Frontend     React · Svelte
-Cloud        Firebase · GCP · AWS · Vercel
-Databases    PostgreSQL · MariaDB · MySQL · MongoDB · Firestore · Room · SQLite
-DevOps       Docker · Kubernetes · Bash scripting
+Languages    Kotlin · Java · Dart · Python · JavaScript · TypeScript · C/C++
+Mobile       Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Flutter
+Backend      Node.js · Express · Ktor · FastAPI · Spring Boot · Frappe Framework
+Frontend     React · Vite · Tailwind
+Cloud        Firebase · GCP · AWS · Vercel · Cloudflare
+Databases    PostgreSQL · MariaDB · MySQL · MongoDB · Firestore · Redis · SQLite / Room
+DevOps       Docker · Kubernetes · Jenkins · GitHub Actions
 ```
 
-### A few things I've built
+### Things I've built
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**RingNet**](https://ring-net.ner-dev.com) | Kotlin, Node.js, React, AWS | Real-time emergency alert platform with sub-100ms WebSocket notifications |
-| [**Fotolicious**](https://fotolicious.ner-dev.com) | React, Node.js, Kubernetes, GCP | Microservices photo gallery supporting 1,000+ concurrent users |
-| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec |
-| [**Accfam**](https://accfam.ner-dev.com) | Python, JS, MariaDB, Docker, WSL | 30+ tightly-integrated modules unifying accounting, HR, manufacturing, inventory, sales & procurement on a single source of truth. |
-| [**i-Sahulat**](https://i-sahulat.ner-dev.com/) | Node.js, PostgreSQL, React 19, Nodemailer, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs covering sales, inventory, production batches, banking, expenses & real layered cost-of-sale. |
+| [**Accfam Work**](https://accfam-work.ner-dev.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) | React 19, Node.js, PostgreSQL, Kotlin Multiplatform, WebRTC | Workforce platform for teams at client sites: GPS-verified punches, roster-aware lateness rules, tasks, team chat and calls, and an assistant that answers from the company's own documents — on the web and in native apps for Android, iPhone, Windows and Mac. |
+| [**LMS**](https://lms.ner-dev.com) | React 19, Node.js, PostgreSQL, Python, OpenCV | Multi-tenant school platform built around tests on paper: printed answer booklets, scanned with a phone or copier, read by a vision model that suggests marks; teachers review and release every result. |
+| [**AccFam**](https://accfam.ner-dev.com) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
+| [**i-Sahulat**](https://i-sahulat.ner-dev.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
+| [**RingNet**](https://ring-net.ner-dev.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ranamahadahmer.ringnet) | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
+| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec. |
 
+Every product has its own page on [ner-dev.com](https://ner-dev.com/#projects).
+
+### Where I've worked
+
+- **Rauf Sattar & Co Chartered Accountants** — Software Developer · Jan 2026–present
+- **Upwork** — Full Stack Mobile App Developer, freelance · Oct 2023–present · 15+ projects shipped at a 5★ rating
+- **Velmie** (London, remote) — Junior Kotlin Developer · Oct–Nov 2025 · KMP mobile wallet, 95% code shared across Android & iOS
+- Earlier: Android and mobile internships at **Devlogix**, **Apps AiT** and **Digital Empowerment Network**, and Web3 work at **TimeChain Labs** (2024)
 
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-mahad-ahmer/)
 [![Portfolio + NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat)](https://ner-dev.com)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0138e9be36d4eb78e9)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8968493681378600549)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Rana_Mahad_Ahmer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:developer@ner-dev.com)
 
 ---
 
-<sub>NUST '25 · Software Engineer · Islamabad, Pakistan</sub>
+<sub>NUST '25 · B.S. Software Engineering · Islamabad, Pakistan · UTC+05</sub>
