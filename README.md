@@ -9,7 +9,7 @@ I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my 
 ### What I'm working on
 
 - 🏢 Building and running **AccFam**, **Accfam Work**, **i-Sahulat** and **LMS** for the firm's clients — spec, design, build, deploy and support
-- 📱 **Accfam Work**'s native apps for Android, iPhone, Windows and Mac from one **Kotlin Multiplatform** codebase — [now on Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work)
+- 📱 **Accfam Work**'s native apps for Android, iPhone, Windows and Mac from one **Kotlin Multiplatform** codebase — on [Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) and the [Microsoft Store](https://apps.microsoft.com/detail/9nfwl1fkhw5k?hl=en-US&gl=PK)
 - 🚀 Shipping **zero-Hop**, a direct communication app with no server in the middle
 - 📖 Reading *Designing Data-Intensive Applications* · learning **Rust + wgpu**
 
@@ -27,16 +27,16 @@ DevOps       Docker · Kubernetes · Jenkins · GitHub Actions
 
 ### Things I've built
 
-| Project | Stack | What it does |
-|---|---|---|
-| [**Accfam Work**](https://accfam-work.ner-dev.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) | React 19, Node.js, PostgreSQL, Kotlin Multiplatform, WebRTC | Workforce platform for teams at client sites: GPS-verified punches, roster-aware lateness rules, tasks, team chat and calls, and an assistant that answers from the company's own documents — on the web and in native apps for Android, iPhone, Windows and Mac. |
-| [**LMS**](https://lms.ner-dev.com) | React 19, Node.js, PostgreSQL, Python, OpenCV | Multi-tenant school platform built around tests on paper: printed answer booklets, scanned with a phone or copier, read by a vision model that suggests marks; teachers review and release every result. |
-| [**AccFam**](https://accfam.ner-dev.com) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
-| [**i-Sahulat**](https://i-sahulat.ner-dev.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
-| [**RingNet**](https://ring-net.ner-dev.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ranamahadahmer.ringnet) | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
-| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec. |
+| Project | Live | Stack | What it does |
+|---|---|---|---|
+| [**Accfam Work**](https://accfam-work.ner-dev.com) | [work.accfam.uk](https://work.accfam.uk) · [Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) · [Microsoft Store](https://apps.microsoft.com/detail/9nfwl1fkhw5k?hl=en-US&gl=PK) | React 19, Node.js, PostgreSQL, Kotlin Multiplatform, WebRTC | Workforce platform for teams at client sites: GPS-verified punches, roster-aware lateness rules, tasks, team chat and calls, and an assistant that answers from the company's own documents — on the web and in native apps for Android, iPhone, Windows and Mac. |
+| [**LMS**](https://lms.ner-dev.com) | [lms-skans.com](https://lms-skans.com) · [app](https://app.lms-skans.com) | React 19, Node.js, PostgreSQL, Python, OpenCV | Multi-tenant school platform built around tests on paper: printed answer booklets, scanned with a phone or copier, read by a vision model that suggests marks; teachers review and release every result. |
+| [**AccFam**](https://accfam.ner-dev.com) | [accfam.uk](https://accfam.uk) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
+| [**i-Sahulat**](https://i-sahulat.ner-dev.com) | [i-sahulat.com](https://i-sahulat.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
+| [**RingNet**](https://ring-net.ner-dev.com) | [Google Play](https://play.google.com/store/apps/details?id=com.ranamahadahmer.ringnet) | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
+| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | [source](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec. |
 
-Every product has its own page on [ner-dev.com](https://ner-dev.com/#projects).
+Project names link to each product's page on [ner-dev.com](https://ner-dev.com/#projects); **Live** links go to the product itself and its store listings.
 
 ### Where I've worked
 
