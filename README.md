@@ -34,7 +34,7 @@ DevOps       Docker · Kubernetes · Jenkins · GitHub Actions
 | [**AccFam**](https://accfam.ner-dev.com) | [accfam.uk](https://accfam.uk) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
 | [**i-Sahulat**](https://i-sahulat.ner-dev.com) | [i-sahulat.com](https://i-sahulat.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
 | [**RingNet**](https://ring-net.ner-dev.com) | — | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Final year project (NUST SEECS, 2025), not released to production: machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
-| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | [source](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec. |
+| [**Packet Sniffer**](https://github.com/RanaMahadAhmer/PacketSniffer) | [GitHub](https://github.com/RanaMahadAhmer/PacketSniffer) | Java, Spring, MySQL | Network traffic monitor analyzing 1,000+ packets/sec. |
 
 Project names link to each product's page on [ner-dev.com](https://ner-dev.com/#projects); **Live** links go to the product itself and its store listings.
 
