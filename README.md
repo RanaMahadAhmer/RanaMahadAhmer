@@ -33,7 +33,7 @@ DevOps       Docker · Kubernetes · Jenkins · GitHub Actions
 | [**LMS**](https://lms.ner-dev.com) | [lms-skans.com](https://lms-skans.com) · [app](https://app.lms-skans.com) | React 19, Node.js, PostgreSQL, Python, OpenCV | Multi-tenant school platform built around tests on paper: printed answer booklets, scanned with a phone or copier, read by a vision model that suggests marks; teachers review and release every result. |
 | [**AccFam**](https://accfam.ner-dev.com) | [accfam.uk](https://accfam.uk) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
 | [**i-Sahulat**](https://i-sahulat.ner-dev.com) | [i-sahulat.com](https://i-sahulat.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
-| [**RingNet**](https://ring-net.ner-dev.com) | — | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Final year project (NUST SEECS, 2025), not released to production: machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
+| [**RingNet**](https://ring-net.ner-dev.com) | — | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Final year project (NUST SEECS, 2025), released on Google Play for testing only, never to production: machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
 
 Project names link to each product's page on [ner-dev.com](https://ner-dev.com/#projects); **Live** links go to the product itself and its store listings.
 
