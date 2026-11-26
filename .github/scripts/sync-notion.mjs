@@ -32,6 +32,29 @@ if (!pageId) {
 
 const notion = new Client({ auth: token })
 
+// When the page can't be read, say whether it is unshared or the id is wrong.
+// The repo's Actions logs are public, so print counts only, never titles.
+try {
+  await notion.pages.retrieve({ page_id: pageId })
+} catch (err) {
+  if (err.code !== 'object_not_found') throw err
+  const norm = (id) => id.replace(/-/g, '').toLowerCase()
+  const seen = []
+  for (let cursor; ;) {
+    const res = await notion.search({ start_cursor: cursor, page_size: 100 })
+    seen.push(...res.results.map((r) => norm(r.id)))
+    if (!res.has_more) break
+    cursor = res.next_cursor
+  }
+  console.error(
+    seen.length === 0
+      ? 'The integration has no pages shared with it. Open the Notion page, ••• → Connections, and add it.'
+      : `The integration can see ${seen.length} page(s) or database(s), and NOTION_PAGE_ID is not one of them: ` +
+        'share that page with the integration (••• → Connections), or set NOTION_PAGE_ID to the page you shared.',
+  )
+  process.exit(1)
+}
+
 // Clear the page: delete every top-level block on it.
 let removed = 0
 for (let cursor; ;) {
