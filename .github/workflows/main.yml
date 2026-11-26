@@ -1,0 +1,23 @@
+name: Sync README to Notion
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Sync Markdown to Notion
+        uses: instantish/notion-markdown-sync@v1
+        with:
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          page-id: ${{ secrets.NOTION_PAGE_ID }}
+          file-path: 'README.md'
