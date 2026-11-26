@@ -15,7 +15,9 @@ const token = process.env.NOTION_TOKEN
 // Accept a bare id, a dashed id or a whole page URL.
 const pageId = (process.env.NOTION_PAGE_ID || '').trim().match(/[0-9a-f]{32}|[0-9a-f-]{36}/i)?.[0]
 
-const blocks = markdownToBlocks(fs.readFileSync(file, 'utf8'), {
+// The README's top heading is dropped: the Notion page has its own title.
+const markdown = fs.readFileSync(file, 'utf8').replace(/^#\s.*\n+/, '')
+const blocks = markdownToBlocks(markdown, {
   notionLimits: { truncate: false },
   strictImageUrls: false,
 })
