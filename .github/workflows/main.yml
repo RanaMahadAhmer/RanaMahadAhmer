@@ -6,7 +6,12 @@ on:
       - main
     paths:
       - 'README.md'
+      - '.github/scripts/sync-notion.mjs'
+      - '.github/workflows/main.yml'
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   sync:
@@ -15,9 +20,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Sync Markdown to Notion
-        uses: VegaStack/oss-notion-markdown-sync@v1.0.0
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          notion-token: ${{ secrets.NOTION_TOKEN }}
-          page-id: ${{ secrets.NOTION_PAGE_ID }}
-          file-path: 'README.md'
+          node-version: 22
+
+      - name: Install the Notion client and Markdown converter
+        run: npm install --no-save --no-audit --no-fund @notionhq/client@2.2.15 @tryfabric/martian@1.2.4
+
+      - name: Replace the Notion page with README.md
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: |
+          if [ -z "$NOTION_TOKEN" ] || [ -z "$NOTION_PAGE_ID" ]; then
+            echo "::error::Add the NOTION_TOKEN and NOTION_PAGE_ID repository secrets"
+            exit 1
+          fi
+          node .github/scripts/sync-notion.mjs README.md

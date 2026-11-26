@@ -1,59 +1,174 @@
-# Hey, I'm Rana Mahad Ahmer
+# ner-dev
 
-**Software Developer** at **Rauf Sattar & Co Chartered Accountants**, building the platforms the firm ships to its clients, and a freelance mobile developer on **Upwork** since 2023.
+Rana Mahad Ahmer • Solo Architect • Islamabad, PK • UTC+05
 
-I'm the person behind [**NER-DEV**](https://ner-dev.com) *(Nerd Developer)*, my solo dev studio: automations, native mobile apps and web platforms, owned end to end from spec to production and shipped independently to Google Play.
+`$ role="Software Engineer"`
 
-
----
-
-### What I'm working on
-
-- 🏢 Building and running **AccFam**, **Accfam Work**, **i-Sahulat** and **LMS** for the firm's clients — spec, design, build, deploy and support
-- 📱 **Accfam Work**'s native apps for Android, iPhone, Windows and Mac from one **Kotlin Multiplatform** codebase — on [Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) and the [Microsoft Store](https://apps.microsoft.com/detail/9nfwl1fkhw5k?hl=en-US&gl=PK)
-- 🚀 Shipping **zero-Hop**, a direct communication app with no server in the middle
-- 📖 Reading *Designing Data-Intensive Applications* · learning **Rust + wgpu**
-
-### What I work with
+A specialized developer focused on high-efficiency automations, native mobile apps, and scalable web platforms. Ships independently to Google Play and operates end-to-end from spec to prod since 2022.
 
 ```
-Languages    Kotlin · Java · Dart · Python · JavaScript · TypeScript · C/C++
-Mobile       Kotlin Multiplatform · Compose Multiplatform · Jetpack Compose · Flutter
-Backend      Node.js · Express · Ktor · FastAPI · Spring Boot · Frappe Framework
-Frontend     React · Vite · Tailwind
-Cloud        Firebase · GCP · AWS · Vercel · Cloudflare
-Databases    PostgreSQL · MariaDB · MySQL · MongoDB · Firestore · Redis · SQLite / Room
-DevOps       Docker · Kubernetes · Jenkins · GitHub Actions
+$ ner-dev [-m mobile | -w web | -e erp | -a automation] [--hire] [--ship]
 ```
 
-### Things I've built
+[▸ view projects](https://ner-dev.com/#projects) · [hire me](https://ner-dev.com/#contact)
 
-| Project | Live | Stack | What it does |
+## Now
+
+- **Shipping**: zero-Hop (a direct communication app, no server)
+- **Writing**: A solo dev's ERP deployment checklist
+- **Reading**: Designing Data-Intensive Applications
+- **Learning**: Rust + wgpu
+
+## Skills
+
+- **Programming Languages**: Kotlin • Dart • JavaScript • Java • Python • C/C++
+- **Frameworks & Libraries**: Flutter • Kotlin Multiplatform • Jetpack Compose • React • Node.js • Spring Boot
+- **Databases**: Local/SQLite • Firebase Firestore • MongoDB • MySQL • PostgreSQL
+- **Cloud & DevOps**: AWS • Docker • GCP • Kubernetes • Jenkins
+
+## Experience
+
+### Rauf Sattar & Co Chartered Accountants · ongoing
+
+**Software Developer** · Jan 2026–Present · Sialkot, PK (Remote) · [Full-time]
+
+In-house software developer for a chartered accountancy firm, building apps and sites that the firm bundles with their accounting services and resells to their clients.
+
+- Shipped i-Sahulat, invoicing platform with FBR sales-tax integration
+- Shipped AccFam, unified ERP across accounting, HR, manufacturing, inventory
+- End-to-end ownership: spec, design, build, deploy, support
+- Direct line to the firm's clients for requirements + iteration
+
+stack: React • Node.js • Kotlin • Postgres • Firebase • Docker • & Everything-In-Between
+
+### Velmie
+
+**Junior Kotlin Developer** · Oct-Nov 2025 · London (Remote) · [Freelance Contract]
+
+Building a Proof-of-Concept mobile wallet on Kotlin Multiplatform & Compose Multiplatform targeting Android & iOS with pixel-perfect UI and REST API integration.
+
+- 95% code sharing across Android & iOS
+- Pixel-perfect Compose components
+- Apache Fineract API integration
+- Trunk-based GitHub workflow on a fully-remote team
+
+stack: Kotlin Multiplatform • Compose Multiplatform • Ktor • Koin • Gradle
+
+### Upwork (Freelance) · ongoing
+
+**Full Stack Mobile App Developer** · Oct 2023–Present · Islamabad, PK (Remote) · [Freelance]
+
+Developed and deployed mobile applications using Flutter, Kotlin, and Java. Built scalable backend solutions with Node.js, Firebase, MongoDB, and MySQL.
+
+- 15+ projects shipped at 5★ rating
+- Avg +40% revenue impact for clients
+- Backends handling 100K+ users
+- Delivery 20% faster than typical timeline
+
+stack: Flutter • Kotlin • Node.js • Firebase • MongoDB • MySQL
+
+### Devlogix
+
+**Android App Developer** · Sep–Nov 2024 · Gujranwala, PK (Remote) · [Internship]
+
+Developed Android applications using Kotlin and Jetpack Compose. Wrote unit and integration tests; optimized app performance.
+
+- 3 production-grade Android apps
+- 99.9% crash-free sessions
+- +35% performance gain via optimization
+
+stack: Kotlin • Jetpack Compose • JUnit • Espresso
+
+### Apps AiT
+
+**Mobile App Developer Intern** · Aug–Sep 2024 · Haryana, IN (Remote) · [Internship]
+
+Translated requirements into mobile solutions; built MVPs and led full app lifecycle from concept to deployment.
+
+- 4 functional prototypes
+- −25% dev time via efficient workflows
+- Cross-functional team of 10+
+
+stack: Flutter • Firebase • RESTful APIs
+
+### TimeChain Labs
+
+**Web3 App Developer** · Jun–Sep 2024 · Maharashtra, IN (Remote) · [Summer Program]
+
+Open-source blockchain contributor; built backend with JS/TS and smart contracts for DeFi.
+
+- 3 OSS blockchain projects
+- DeFi smart contract development
+- Blockchain security best practices
+
+stack: JavaScript • TypeScript • Blockchain • Web3
+
+### Digital Empowerment Network
+
+**Android Developer** · Jun–Jul 2024 · Islamabad, PK (Remote) · [Internship]
+
+Designed UIs for native Android apps; integrated 8+ third-party APIs.
+
+- UI for 4 Android apps
+- 8+ third-party API integrations
+- +40% responsiveness gain
+
+stack: Kotlin • Android SDK • RESTful APIs • XML
+
+## Education
+
+**National University of Science & Technology (NUST)**
+
+Bachelor of Software Engineering · Nov 2021 – Jun 2025 · H-12, Islamabad, Pakistan
+
+## Projects
+
+5 products • subdomain-routed
+
+| Project | What it is | Platforms | Live |
 |---|---|---|---|
-| [**Accfam Work**](https://accfam-work.ner-dev.com) | [work.accfam.uk](https://work.accfam.uk) · [Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) · [Microsoft Store](https://apps.microsoft.com/detail/9nfwl1fkhw5k?hl=en-US&gl=PK) | React 19, Node.js, PostgreSQL, Kotlin Multiplatform, WebRTC | Workforce platform for teams at client sites: GPS-verified punches, roster-aware lateness rules, tasks, team chat and video calls, client email and WhatsApp in one inbox, an assistant that answers from the company's own documents, and AI agents such as Claude that work as the person over MCP — on the web and in native apps for Android, iPhone, Windows and Mac. |
-| [**LMS**](https://lms.ner-dev.com) | [lms-skans.com](https://lms-skans.com) · [app](https://app.lms-skans.com) | React 19, Node.js, PostgreSQL, Python, OpenCV | Multi-tenant school platform built around tests on paper: printed answer booklets, scanned with a phone or copier, read by a vision model that suggests marks; teachers review and release every result. |
-| [**AccFam**](https://accfam.ner-dev.com) | [accfam.uk](https://accfam.uk) | Python, Frappe, React, MariaDB, Docker | Unified ERP: 30+ tightly-integrated modules for accounting, HR, manufacturing, inventory, sales and procurement on a single source of truth. |
-| [**i-Sahulat**](https://i-sahulat.ner-dev.com) | [i-sahulat.com](https://i-sahulat.com) | React 19, Node.js, PostgreSQL, Vercel | Multi-tenant SaaS for Pakistani manufacturing SMEs — sales, inventory, production batches, banking, expenses, a layered cost-of-sale model and FBR sales-tax invoicing. |
-| [**RingNet**](https://ring-net.ner-dev.com) | — | Kotlin, Jetpack Compose, FastAPI, TensorFlow Lite, GCP | Final year project (NUST SEECS, 2025), released on Google Play for testing only, never to production: machine-learning earthquake nowcasting plus flood, heatwave and tsunami monitoring, with geo-targeted alerts. |
+| **RingNet** · [ring-net.ner-dev.com](https://ring-net.ner-dev.com) | ML earthquake prediction + multi-hazard alerts | [android] | — |
+| **AccFam** · [accfam.ner-dev.com](https://accfam.ner-dev.com) | Unified ERP, accounting, HR, mfg, inventory | [web] | [visit accfam.uk](https://accfam.uk) |
+| **Accfam Work** · [accfam-work.ner-dev.com](https://accfam-work.ner-dev.com) | GPS field attendance, client inbox, web + native apps, multi-tenant | [web] [android] [ios] [windows] [macos] | [visit work.accfam.uk](https://work.accfam.uk) · [get it on Google Play](https://play.google.com/store/apps/details?id=com.ner_dev.accfam_work) · [get it on Microsoft Store](https://apps.microsoft.com/detail/9nfwl1fkhw5k?hl=en-US&gl=PK) |
+| **LMS** · [lms.ner-dev.com](https://lms.ner-dev.com) | Paper tests, AI-read and teacher-released | [web] | [visit lms-skans.com](https://lms-skans.com) · [sign in at app.lms-skans.com](https://app.lms-skans.com) |
+| **iSahulat** · [i-sahulat.ner-dev.com](https://i-sahulat.ner-dev.com) | Invoicing + FBR sales-tax integration | [web] | [visit i-sahulat.com](https://i-sahulat.com) |
 
-Project names link to each product's page on [ner-dev.com](https://ner-dev.com/#projects); **Live** links go to the product itself and its store listings.
+## See also
 
-### Where I've worked
+- **github**: [github.com/RanaMahadAhmer](https://github.com/RanaMahadAhmer)
+- **linkedin(1)**: [linkedin.com/in/rana-mahad-ahmer](https://linkedin.com/in/rana-mahad-ahmer)
+- **upwork(1)**: [upwork.com/freelancers/~0138e9be36d4eb78e9](https://upwork.com/freelancers/~0138e9be36d4eb78e9)
+- **leetcode(1)**: [leetcode.com/Rana_Mahad_Ahmer](https://leetcode.com/Rana_Mahad_Ahmer)
+- **playstore(1)**: [play.google.com/store/apps/dev?id=8968493681378600549](https://play.google.com/store/apps/dev?id=8968493681378600549)
+- **email(6)**: [ranamahadahmer@outlook.com](mailto:ranamahadahmer@outlook.com) · [developer@ner-dev.com](mailto:developer@ner-dev.com) · [developer@accfam.uk](mailto:developer@accfam.uk) · [developer@i-sahulat.com](mailto:developer@i-sahulat.com) · [developer@raufsattar.com](mailto:developer@raufsattar.com) · [developer@synergyinc.solutions](mailto:developer@synergyinc.solutions)
 
-- **Rauf Sattar & Co Chartered Accountants** — Software Developer · Jan 2026–present
-- **Upwork** — Full Stack Mobile App Developer, freelance · Oct 2023–present · 15+ projects shipped at a 5★ rating
-- **Velmie** (London, remote) — Junior Kotlin Developer · Oct–Nov 2025 · KMP mobile wallet, 95% code shared across Android & iOS
-- Earlier: Android and mobile internships at **Devlogix**, **Apps AiT** and **Digital Empowerment Network**, and Web3 work at **TimeChain Labs** (2024)
+## FAQ
 
-### Get in touch
+**q: What types of projects do you take?**  
+a: Mobile apps (iOS/Android), full-stack web, and automations. From MVPs for startups to enterprise-scale platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-mahad-ahmer/)
-[![Portfolio + NER-DEV](https://img.shields.io/badge/NER--DEV-111?style=flat)](https://ner-dev.com)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0138e9be36d4eb78e9)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=8968493681378600549)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Rana_Mahad_Ahmer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:developer@ner-dev.com)
+**q: Typical project timeline?**  
+a: Simple apps 4–8 weeks. Complex builds 3–6 months. Detailed timelines after the initial spec call.
+
+**q: International clients?**  
+a: Yes, shipped to clients in the UK, US, EU, and Asia. Comfortable across time zones and async-first.
+
+**q: Tech stack you reach for?**  
+a: Kotlin • Flutter • React • Node.js with Postgres or Firebase. The stack adapts to project, budget, and timeline.
+
+## Contact
+
+**Let's ship something.**
+
+Solo, senior, and fully async. Drop a spec in my inbox, I'll come back within 24h with timeline, risks, and a fixed price.
+
+- **email**: [ranamahadahmer@outlook.com](mailto:ranamahadahmer@outlook.com)
+- **phone**: [+92 331 6625623](tel:+923316625623)
+- **located**: Islamabad, Pakistan • UTC+05
+- **reply SLA**: < 24h on weekdays
+
+[▸ get in touch](mailto:ranamahadahmer@outlook.com)
 
 ---
 
-<sub>NUST '25 · B.S. Software Engineering · Islamabad, Pakistan · UTC+05</sub>
+Generated from [ner-dev.com](https://ner-dev.com), the source of truth.
